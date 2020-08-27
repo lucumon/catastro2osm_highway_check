@@ -1,7 +1,6 @@
 # catastro2osm
 Conversiones de datos del catastro a OSM para alguna de las importaciones realizadas utilizando la herramienta [CatAtom2Osm](https://github.com/OSM-es/CatAtom2Osm/).
 
-Se incluye además un archivo "highway_names_progress.ods" para cada importación en el que se lleva un recuento de que calles/avenidas han sido comprobadas y corregidas en OSM.
 Para más imformación sobre el proyecto de importación visita la [wiki de OSM](https://wiki.openstreetmap.org/wiki/ES:Catastro_espa%C3%B1ol/Importaci%C3%B3n_de_edificios).
 
 ### ADVERTENCIA
