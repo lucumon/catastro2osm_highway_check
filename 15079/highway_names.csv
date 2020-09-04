@@ -4,19 +4,15 @@ LG AGUALADA	Agualada
 RU ALTA VISTA	Altavista
 LG MOAS ARRIBA	As Moas de Arriba
 AV AEROPORTO	Avenida Aeroporto
-AV ANTONIO FRAGUAS	Avenida Antonio Fraguas
-AV ANTONIO RAIMUNDO IBAÑEZ	Avenida Antonio Raimundo Ibañez
-AV CASAS COMPOSTELA	Avenida Casas Compostela
-AV DR ANGEL JORGE ECHEVARRI	Avenida Dr Angel Jorge Echevarri
 AV MANUEL FRAGA IRIBARNE	Avenida Manuel Fraga Iribarne
-AV MESTRE MATEO	Avenida Mestre Mateo
-AV ROSALIA CASTRO	Avenida Rosalía de Castro
-AV XOAN XXIII	Avenida Xoan XXIII
 AV CORUÑA	Avenida da Coruña
 AV LIBERDADE	Avenida da Liberdade
 AV MESTRA VICTORIA MIGUEZ	Avenida da Mestra Victoria Míguez
 AV BURGAS	Avenida das Burgas
+AV CASAS COMPOSTELA	Avenida das Casas de Compostela
 AV CIENCIAS	Avenida das Ciencias
+AV ANTONIO FRAGUAS	Avenida de Antonio Fraguas
+AV ANTONIO RAIMUNDO IBAÑEZ	Avenida de Antonio Raimundo Ibáñez
 AV BARCELONA	Avenida de Barcelona
 AV BILBAO	Avenida de Bilbao
 AV CASTELAO	Avenida de Castelao
@@ -24,7 +20,6 @@ AV COIMBRA	Avenida de Coimbra
 AV FERNANDO CASAS NOVOA	Avenida de Fernando de Casas Novoa
 AV FERROL	Avenida de Ferrol
 AV FIGUEROA	Avenida de Figueroa
-AV XOSE FILGUEIRA VALVERDE	Avenida de Filgueira Valverde
 AV GONZALO TORRENTE BALLESTE	Avenida de Gonzalo Torrente Ballester
 AV LUGO	Avenida de Lugo
 AV MONTEVIDEO	Avenida de Montevideo
@@ -35,16 +30,22 @@ AV RAXOI	Avenida de Raxoi
 AV RODRIGO PADRON	Avenida de Rodrigo de Padrón
 AV RODRIGUEZ VIGURI	Avenida de Rodríguez de Viguri
 AV ROMERO DONALLO	Avenida de Romero Donallo
+AV ROSALIA CASTRO	Avenida de Rosalía de Castro
 AV SALAMANCA	Avenida de Salamanca
 AV SAN MARCOS	Avenida de San Marcos
 AV SYRA ALONSO	Avenida de Syra Alonso
 AV VIGO	Avenida de Vigo
 AV DE VILAGARCIA	Avenida de Vilagarcía
+AV XOSE FILGUEIRA VALVERDE	Avenida de Xosé Filgueira Valverde
 AV DE XOAN PAULO II	Avenida de Xoán Paulo II
+AV XOAN XXIII	Avenida de Xoán XXIII
 AV BURGO NACIONS	Avenida do Burgo das Nacións
 AV CAMIÑO FRANCES	Avenida do Camiño Francés
 PQ DO CRUCEIRO DA CORUÑA	Avenida do Cruceiro da Coruña
 AV DO CRUCEIRO DA CORUÑA	Avenida do Cruceiro da Coruña
+AV DR ANGEL JORGE ECHEVARRI	Avenida do Doutor Ángel Jorge Echeverri
+AV MESTRE MATEO	Avenida do Mestre Mateo
+BO CORNES	Barrio Cornes
 BO SANTO IGNACIO LOYOLA	Barrio Santo Ignacio Loyola
 BO PONTE SANTO DOMINGO	Barrio da ponte de San Domingos
 LG BORNAIS	Bornais
@@ -70,7 +71,6 @@ LG CARBALLAL	Carballal
 RU CARREIRO PICAÑOS	Carreiro de Picaños
 CR AUTOPISTA	Carretera/Carrera Autopista
 CR CORREDOIRA ESPIÑO	Carretera/Carrera Corredoira Espiño
-BO CORNES	Cornes
 RU CORREDOIRA DA CASA VELLA	Corredoira da Casa Vella
 RU CATADOIRO	Corredoira do Catadoiro
 RU CORREDOIRA DOS MUIÑOS	Corredoira dos Muíños
@@ -417,13 +417,12 @@ RU RUELA DO GATO	Ruela do Gato
 RU RUELA PESO	Ruela do Peso
 RU RUELA POZO	Ruela do Pozo
 RU CIDADE TRANSPORTE A	Rúa "A" da Cidade do Transporte
-RU CIDADE TRANSPORTE (H)	Rúa "A" da Cidade do Transporte
 RU CIDADE TRANSPORTE B	Rúa "B" da Cidade do Transporte
 RU CIDADE TRANSPORTE C	Rúa "C" da Cidade do Transporte
-RU CIDADE TRANSPORTE D	Rúa "E" da Cidade do Transporte
+RU CIDADE TRANSPORTE D	Rúa "C" da Cidade do Transporte
 RU CIDADE TRANSPORTE F	Rúa "F" da Cidade do Transporte
 RU CIDADE TRANSPORTE G	Rúa "G" da Cidade do Transporte
-RU AGRA LAMAS	Rúa Agra Lamas
+RU CIDADE TRANSPORTE (H)	Rúa "H" da Cidade do Transporte
 RU AIRAS NUNES	Rúa Airas Nunes
 RU ALEJANDRA MURGUIA CASTRO	Rúa Alejandra Murguia Castro
 RU ALEJANDRO NOVO GONZALEZ	Rúa Alejandro Novo Gonzalez
@@ -481,7 +480,6 @@ RU FLORES	Rúa Flores
 RU FOLLAS NOVAS	Rúa Follas Novas
 RU FONSECA	Rúa Fonseca
 RU FONTELA	Rúa Fontela
-RU FRANCISCA HERRERA GARRIDO	Rúa Francisca Herrera Garrido
 RU FREI ROSENDO SALVADO	Rúa Frei Rosendo Salvado
 RU FRONTEIRA INFINDA	Rúa Fronteira Infinda
 RU GUIMARAES	Rúa Guimaraes
@@ -594,6 +592,7 @@ RU XOSE CASTRO GLEZ CHANE	Rúa Xose Castro Glez Chane
 RU ESMORGA	Rúa d'A Esmorga
 RU ACIBECHERIA	Rúa da Acibechería
 RU AGRA GARRIDA	Rúa da Agra da Garrida
+RU AGRA LAMAS	Rúa da Agra das Lamas
 RU AGRA ARRIBA	Rúa da Agra de Arriba
 RU AGRA VIEIRO	Rúa da Agra do Vieiro
 RU AGRIÑA AMIO	Rúa da Agriña de Amio
@@ -847,6 +846,7 @@ RU FELIPE R CORDERO CARRETE	Rúa de Felipe Ramón Cordero Carrete
 RU DE FERNANDO III O SANTO	Rúa de Fernando III o Santo
 RU FERROL	Rúa de Ferrol
 RU FOZAN	Rúa de Fozán
+RU FRANCISCA HERRERA GARRIDO	Rúa de Francisca Herrera Garrido
 RU GARCIA BLANCO	Rúa de García Blanco
 RU GARCIA LORCA	Rúa de García Lorca
 RU GARCIA PRIETO	Rúa de García Prieto
@@ -1165,7 +1165,6 @@ LG SANTO IGNACIO MONTE	Santo Ignacio do Monte
 LG SANTOMIL	Santomil
 LG SILVOUTA	Silvouta
 BO TOXEIRA SAN LOURENZO	Toxeira de San Lorenzo
-TR BENEFICA CONXO	Travesa da Benéfica de Conxo
 TR CALZADA SAR	Travesa da Calzada de Sar
 TR CAMPIÑA (DA)	Travesa da Campiña
 TR CANTALETA	Travesa da Cantaleta
@@ -1210,6 +1209,7 @@ RU RUELA PITELOS	Travesa dos Pitelos
 TR CASA AGRARIA	Travesia da casa agraria
 TR TEO	Travesia de Teo
 TR SANTA MARTA ABAIXO	Travesía Santa Marta de Abaixo
+TR BENEFICA CONXO	Travesía da Benéfica de Conxo
 TR RESTOLLAL	Travesía do Restollal
 TR DUAS PORTAS (DAS)	Travesía/Transversal Duas Portas (Das)
 TR FONSECA	Travesía/Transversal Fonseca

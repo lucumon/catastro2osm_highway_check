@@ -1,7 +1,7 @@
 Municipality: Santiago de Compostela
 Cadastre name: SANTIAGO DE COMPOSTELA
 Code: 15079
-Date: 08/23/20
+Date: 09/04/20
 Options: 15079
 Area: 220.5 km²
 Population: 94824 hab. (2009)
@@ -10,15 +10,15 @@ Wikidata: https://www.wikidata.org/wiki/Q14314
 
 =System info=
 Application version: CatAtom2Osm 1.2.2
-Platform: Linux 5.4.0-7634-generic #38~1596560323~20.04~7719dbd-Ubuntu SMP Tue Aug 4 19:12:34 UTC 2 x86_64 x86_64
+Platform: Linux 5.4.0-7642-generic #46~1597422484~20.04~e78f762-Ubuntu SMP Wed Aug 19 14:35:06 UTC  x86_64 x86_64
 QGIS version: 3.10.4-A Coruña
 GDAL version: 3.0.4
 CPU count: 2
 CPU frequency: 1800.0 Mhz
-Execution time: 292.4 seconds
+Execution time: 317.6 seconds
 Total memory: 3235.91 MB
-Physical memory usage: 305.93 MB
-Virtual memory usage: 1218.58 MB
+Physical memory usage: 262.88 MB
+Virtual memory usage: 1215.96 MB
 
 =Addresses=
 
@@ -34,5 +34,5 @@ Street names: 1238
 Addresses: 32286
   In entrance nodes: 14377
   In buildings: 17909
-  Type addr:street: 24256
-  Type addr:place: 8030
+  Type addr:street: 24179
+  Type addr:place: 8107
