@@ -9,4 +9,4 @@ Para más imformación sobre el proyecto de importación visita la [wiki de OSM]
 ## Importaciones y fecha de actualización
 | Codigo municipio | Nombre | Última conversión |
 | ---------- | ------ | ----------------- |
-| 15079 | [Santiago de Compostela](https://wiki.openstreetmap.org/wiki/Gl:WikiProject_Importaci%C3%B3n_do_Catastro_de_Santiago_de_Compostela) | 24-08-2020 |
+| 15079 | [Santiago de Compostela](https://wiki.openstreetmap.org/wiki/Gl:WikiProject_Importaci%C3%B3n_do_Catastro_de_Santiago_de_Compostela) | 04-09-2020 |
