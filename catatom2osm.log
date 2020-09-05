@@ -12,3 +12,17 @@
 2020-09-05 19:29:16,109 - INFO - Generated 'address.osm': 6140 nodes, 0 ways, 0 relations
 2020-09-05 19:29:16,227 - INFO - The translation file 'highway_names.csv' have been writen in '15057'
 2020-09-05 19:29:16,227 - INFO - Please, check it and run again
+2020-09-05 20:58:37,909 - INFO - Start processing '15046'
+2020-09-05 20:58:38,208 - INFO - Downloading '15046/A.ES.SDGC.CP.15046.zip'
+2020-09-05 20:58:50,598 - INFO - Read 186 features in '15046/A.ES.SDGC.CP.15046.cadastralzoning.gml'
+2020-09-05 20:58:56,606 - INFO - Municipality: 'Mazaricos'
+2020-09-05 20:58:57,293 - INFO - Downloading '15046/A.ES.SDGC.AD.15046.zip'
+2020-09-05 20:58:57,962 - INFO - Read 3627 features in '15046/A.ES.SDGC.AD.15046.gml'
+2020-09-05 20:58:57,972 - INFO - Read 5 features in '15046/A.ES.SDGC.AD.15046.gml'
+2020-09-05 20:58:57,985 - INFO - Read 125 features in '15046/A.ES.SDGC.AD.15046.gml'
+2020-09-05 20:59:06,615 - INFO - Generated 'address.geojson'
+2020-09-05 20:59:06,633 - INFO - Downloading 'current_highway.osm'
+2020-09-05 20:59:08,371 - INFO - Read 'current_highway.osm': 100 nodes, 6 ways, 0 relations
+2020-09-05 20:59:12,494 - INFO - Generated 'address.osm': 3614 nodes, 0 ways, 0 relations
+2020-09-05 20:59:12,666 - INFO - The translation file 'highway_names.csv' have been writen in '15046'
+2020-09-05 20:59:12,666 - INFO - Please, check it and run again

@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.56.6 474850e8">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2020-09-05T18:58:02Z" areas="2020-09-05T18:51:02Z"/>
+
+  <node id="272456570" lat="42.9075956" lon="-8.9543684" version="5" timestamp="2011-03-25T01:34:53Z" changeset="7661627" uid="346373" user="Picholeiro"/>
+  <node id="272456572" lat="42.9073832" lon="-8.9542350" version="5" timestamp="2011-03-25T01:34:58Z" changeset="7661627" uid="346373" user="Picholeiro"/>
+  <node id="272456573" lat="42.9074388" lon="-8.9542698" version="5" timestamp="2011-03-25T01:35:11Z" changeset="7661627" uid="346373" user="Picholeiro"/>
+  <node id="272456668" lat="42.9338737" lon="-8.9881801" version="3" timestamp="2009-03-08T12:04:02Z" changeset="759557" uid="101355" user="ottokar55"/>
+  <node id="272456670" lat="42.9346463" lon="-8.9889890" version="3" timestamp="2009-03-08T12:04:02Z" changeset="759557" uid="101355" user="ottokar55"/>
+  <node id="272456672" lat="42.9374956" lon="-8.9912225" version="3" timestamp="2009-03-08T12:04:02Z" changeset="759557" uid="101355" user="ottokar55"/>
+  <node id="272456682" lat="42.9399223" lon="-8.9938665" version="3" timestamp="2009-03-08T12:04:02Z" changeset="759557" uid="101355" user="ottokar55"/>
+  <node id="272456683" lat="42.9404293" lon="-8.9948082" version="3" timestamp="2009-03-08T12:04:02Z" changeset="759557" uid="101355" user="ottokar55"/>
+  <node id="272456708" lat="42.9622514" lon="-9.0185232" version="5" timestamp="2014-11-04T22:49:42Z" changeset="26560162" uid="101355" user="ottokar55"/>
+  <node id="272456711" lat="42.9628273" lon="-9.0184778" version="4" timestamp="2014-11-04T22:49:42Z" changeset="26560162" uid="101355" user="ottokar55"/>
+  <node id="282489726" lat="42.9618178" lon="-8.9167157" version="5" timestamp="2010-12-04T16:17:20Z" changeset="6539731" uid="46145" user="Jacques_N"/>
+  <node id="442144703" lat="42.9663471" lon="-8.9200139" version="1" timestamp="2009-07-15T16:04:16Z" changeset="1837145" uid="144047" user="Javier Pais"/>
+  <node id="442144704" lat="42.9724391" lon="-8.9277387" version="1" timestamp="2009-07-15T16:04:17Z" changeset="1837145" uid="144047" user="Javier Pais"/>
+  <node id="442144705" lat="42.9737579" lon="-8.9289403" version="1" timestamp="2009-07-15T16:04:17Z" changeset="1837145" uid="144047" user="Javier Pais"/>
+  <node id="442144706" lat="42.9743231" lon="-8.9307428" version="1" timestamp="2009-07-15T16:04:17Z" changeset="1837145" uid="144047" user="Javier Pais"/>
+  <node id="442144709" lat="42.9766798" lon="-8.9341715" version="2" timestamp="2019-03-29T11:45:36Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="442144712" lat="42.9768620" lon="-8.9347583" version="3" timestamp="2019-03-29T11:45:36Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="442144716" lat="42.9799427" lon="-8.9390774" version="2" timestamp="2010-12-04T15:40:57Z" changeset="6539316" uid="46145" user="Jacques_N"/>
+  <node id="442144719" lat="42.9805216" lon="-8.9404966" version="3" timestamp="2019-03-29T11:45:36Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="442144721" lat="42.9814575" lon="-8.9415601" version="2" timestamp="2010-12-04T15:41:08Z" changeset="6539316" uid="46145" user="Jacques_N"/>
+  <node id="442144723" lat="42.9811875" lon="-8.9450792" version="2" timestamp="2010-12-04T15:41:06Z" changeset="6539316" uid="46145" user="Jacques_N"/>
+  <node id="442144724" lat="42.9821976" lon="-8.9471863" version="3" timestamp="2013-05-25T21:12:16Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="442144726" lat="42.9817197" lon="-8.9472469" version="3" timestamp="2019-03-25T21:12:09Z" changeset="68523516" uid="1712325" user="mglbranco"/>
+  <node id="442144728" lat="42.9814227" lon="-8.9483112" version="2" timestamp="2010-12-04T15:41:06Z" changeset="6539316" uid="46145" user="Jacques_N"/>
+  <node id="442144730" lat="42.9803106" lon="-8.9489004" version="2" timestamp="2013-05-25T21:12:16Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="1018804414" lat="42.9387181" lon="-8.9926044" version="1" timestamp="2010-12-03T19:10:50Z" changeset="6529963" uid="46145" user="Jacques_N"/>
+  <node id="1018805474" lat="42.9398538" lon="-8.9937673" version="1" timestamp="2010-12-03T19:11:16Z" changeset="6529963" uid="46145" user="Jacques_N"/>
+  <node id="1018813648" lat="42.9361100" lon="-8.9901364" version="1" timestamp="2010-12-03T19:16:21Z" changeset="6530038" uid="46145" user="Jacques_N"/>
+  <node id="1018813660" lat="42.9351962" lon="-8.9909782" version="2" timestamp="2013-08-09T13:58:28Z" changeset="17279547" uid="346373" user="Picholeiro"/>
+  <node id="1018813666" lat="42.9351073" lon="-8.9912912" version="1" timestamp="2010-12-03T19:16:22Z" changeset="6530038" uid="46145" user="Jacques_N"/>
+  <node id="1018813667" lat="42.9355462" lon="-8.9896905" version="2" timestamp="2015-11-16T15:38:13Z" changeset="35354011" uid="6389" user="Jesús Gómez"/>
+  <node id="1018813675" lat="42.9357620" lon="-8.9921710" version="1" timestamp="2010-12-03T19:16:22Z" changeset="6530038" uid="46145" user="Jacques_N"/>
+  <node id="1018813687" lat="42.9356294" lon="-8.9897596" version="1" timestamp="2010-12-03T19:16:23Z" changeset="6530038" uid="46145" user="Jacques_N"/>
+  <node id="1018813694" lat="42.9373370" lon="-8.9940752" version="1" timestamp="2010-12-03T19:16:23Z" changeset="6530038" uid="46145" user="Jacques_N"/>
+  <node id="1018813698" lat="42.9382096" lon="-8.9919719" version="1" timestamp="2010-12-03T19:16:23Z" changeset="6530038" uid="46145" user="Jacques_N"/>
+  <node id="1018813704" lat="42.9360171" lon="-8.9924931" version="1" timestamp="2010-12-03T19:16:23Z" changeset="6530038" uid="46145" user="Jacques_N"/>
+  <node id="1018813706" lat="42.9365930" lon="-8.9905149" version="1" timestamp="2010-12-03T19:16:23Z" changeset="6530038" uid="46145" user="Jacques_N"/>
+  <node id="1018813713" lat="42.9380160" lon="-8.9917471" version="2" timestamp="2015-11-16T15:38:13Z" changeset="35354011" uid="6389" user="Jesús Gómez"/>
+  <node id="1018813715" lat="42.9335182" lon="-8.9878852" version="1" timestamp="2010-12-03T19:16:23Z" changeset="6530038" uid="46145" user="Jacques_N"/>
+  <node id="1018813722" lat="42.9371450" lon="-8.9938630" version="1" timestamp="2010-12-03T19:16:23Z" changeset="6530038" uid="46145" user="Jacques_N"/>
+  <node id="1018813724" lat="42.9369116" lon="-8.9907682" version="2" timestamp="2015-11-16T15:38:13Z" changeset="35354011" uid="6389" user="Jesús Gómez"/>
+  <node id="1018813734" lat="42.9358564" lon="-8.9922980" version="1" timestamp="2010-12-03T19:16:24Z" changeset="6530038" uid="46145" user="Jacques_N"/>
+  <node id="1018813739" lat="42.9364018" lon="-8.9903651" version="1" timestamp="2010-12-03T19:16:24Z" changeset="6530038" uid="46145" user="Jacques_N"/>
+  <node id="1020193285" lat="42.9758283" lon="-8.9331149" version="2" timestamp="2019-03-29T11:45:36Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="1020193314" lat="42.9745278" lon="-8.9312729" version="1" timestamp="2010-12-04T15:40:37Z" changeset="6539316" uid="46145" user="Jacques_N"/>
+  <node id="1020193324" lat="42.9790854" lon="-8.9378856" version="1" timestamp="2010-12-04T15:40:37Z" changeset="6539316" uid="46145" user="Jacques_N"/>
+  <node id="1020193382" lat="42.9811475" lon="-8.9431883" version="2" timestamp="2019-03-29T11:45:36Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="1020193518" lat="42.9777972" lon="-8.9360951" version="1" timestamp="2010-12-04T15:40:45Z" changeset="6539316" uid="46145" user="Jacques_N"/>
+  <node id="1020193527" lat="42.9812230" lon="-8.9426376" version="1" timestamp="2010-12-04T15:40:45Z" changeset="6539316" uid="46145" user="Jacques_N"/>
+  <node id="1020265003" lat="42.9668637" lon="-8.9206690" version="1" timestamp="2010-12-04T16:16:08Z" changeset="6539731" uid="46145" user="Jacques_N"/>
+  <node id="1216906233" lat="42.9073472" lon="-8.9542594" version="1" timestamp="2011-03-25T01:34:07Z" changeset="7661627" uid="346373" user="Picholeiro"/>
+  <node id="1216906326" lat="42.9073165" lon="-8.9541682" version="2" timestamp="2019-03-29T22:59:53Z" changeset="68681821" uid="1712325" user="mglbranco">
+    <tag k="crossing" v="uncontrolled"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="1216906369" lat="42.9073897" lon="-8.9543236" version="1" timestamp="2011-03-25T01:34:17Z" changeset="7661627" uid="346373" user="Picholeiro"/>
+  <node id="2132908730" lat="42.9385689" lon="-8.9924298" version="1" timestamp="2013-01-28T19:57:15Z" changeset="14826838" uid="51722" user="Chris Parker">
+    <tag k="highway" v="crossing"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="2320100574" lat="42.9734726" lon="-8.9534647" version="1" timestamp="2013-05-25T21:12:13Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100576" lat="42.9735511" lon="-8.9534391" version="1" timestamp="2013-05-25T21:12:13Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100577" lat="42.9737036" lon="-8.9534369" version="2" timestamp="2019-03-29T11:45:36Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="2320100578" lat="42.9740564" lon="-8.9533125" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100579" lat="42.9742944" lon="-8.9532115" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100580" lat="42.9749064" lon="-8.9525626" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100581" lat="42.9756356" lon="-8.9519457" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100582" lat="42.9760952" lon="-8.9515162" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100583" lat="42.9763355" lon="-8.9513864" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100584" lat="42.9770272" lon="-8.9512150" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100585" lat="42.9777634" lon="-8.9510259" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100586" lat="42.9779510" lon="-8.9508977" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100587" lat="42.9784128" lon="-8.9503305" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100588" lat="42.9788771" lon="-8.9497569" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100589" lat="42.9791209" lon="-8.9495325" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100590" lat="42.9820609" lon="-8.9472476" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100591" lat="42.9821383" lon="-8.9472476" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2320100592" lat="42.9821594" lon="-8.9470489" version="1" timestamp="2013-05-25T21:12:14Z" changeset="16285002" uid="346373" user="Picholeiro"/>
+  <node id="2543604408" lat="42.9811733" lon="-8.9447327" version="1" timestamp="2013-11-21T17:30:18Z" changeset="19040149" uid="1811753" user="mrflorod"/>
+  <node id="2543637434" lat="42.9641864" lon="-8.9184405" version="1" timestamp="2013-11-21T17:43:38Z" changeset="19040444" uid="1811753" user="mrflorod"/>
+  <node id="2543640045" lat="42.9766466" lon="-8.9340843" version="2" timestamp="2019-03-29T11:45:36Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="3839175554" lat="42.9369869" lon="-8.9908237" version="1" timestamp="2015-11-16T15:38:12Z" changeset="35354011" uid="6389" user="Jesús Gómez">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3839175563" lat="42.9388584" lon="-8.9927481" version="1" timestamp="2015-11-16T15:38:13Z" changeset="35354011" uid="6389" user="Jesús Gómez">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3839175564" lat="42.9379078" lon="-8.9916291" version="1" timestamp="2015-11-16T15:38:13Z" changeset="35354011" uid="6389" user="Jesús Gómez">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3839175566" lat="42.9377084" lon="-8.9914036" version="1" timestamp="2015-11-16T15:38:13Z" changeset="35354011" uid="6389" user="Jesús Gómez"/>
+  <node id="3839175567" lat="42.9376059" lon="-8.9913026" version="1" timestamp="2015-11-16T15:38:13Z" changeset="35354011" uid="6389" user="Jesús Gómez"/>
+  <node id="3839175568" lat="42.9354678" lon="-8.9896330" version="1" timestamp="2015-11-16T15:38:13Z" changeset="35354011" uid="6389" user="Jesús Gómez">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3927947221" lat="42.9074530" lon="-8.9544279" version="1" timestamp="2016-01-05T00:24:38Z" changeset="36371829" uid="32529" user="Rodrigo Rega"/>
+  <node id="3927947223" lat="42.9075094" lon="-8.9544606" version="1" timestamp="2016-01-05T00:24:38Z" changeset="36371829" uid="32529" user="Rodrigo Rega"/>
+  <node id="4431383281" lat="42.9733920" lon="-8.9286069" version="1" timestamp="2016-10-04T19:05:25Z" changeset="42639980" uid="4674260" user="miguelgodon"/>
+  <node id="5554228425" lat="42.9742210" lon="-8.9532426" version="1" timestamp="2018-04-15T10:04:14Z" changeset="58106575" uid="2365149" user="lucumon"/>
+  <node id="6361222266" lat="42.9818222" lon="-8.9471817" version="1" timestamp="2019-03-25T21:11:59Z" changeset="68523516" uid="1712325" user="mglbranco"/>
+  <node id="6361222267" lat="42.9819373" lon="-8.9471915" version="1" timestamp="2019-03-25T21:11:59Z" changeset="68523516" uid="1712325" user="mglbranco"/>
+  <node id="6361360044" lat="42.9397455" lon="-8.9936564" version="1" timestamp="2019-03-25T22:36:48Z" changeset="68525847" uid="1712325" user="mglbranco">
+    <tag k="crossing" v="unmarked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6361360615" lat="42.9407766" lon="-8.9954549" version="1" timestamp="2019-03-25T22:36:49Z" changeset="68525847" uid="1712325" user="mglbranco"/>
+  <node id="6361360653" lat="42.9353875" lon="-8.9895700" version="1" timestamp="2019-03-25T22:36:50Z" changeset="68525847" uid="1712325" user="mglbranco"/>
+  <node id="6370070345" lat="42.9738324" lon="-8.9533695" version="1" timestamp="2019-03-29T11:45:19Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="6370070346" lat="42.9739622" lon="-8.9533444" version="1" timestamp="2019-03-29T11:45:19Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="6370070383" lat="42.9813885" lon="-8.9420923" version="1" timestamp="2019-03-29T11:45:20Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="6370070384" lat="42.9814754" lon="-8.9418131" version="1" timestamp="2019-03-29T11:45:20Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="6370070585" lat="42.9803353" lon="-8.9399237" version="1" timestamp="2019-03-29T11:45:20Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="6370070589" lat="42.9798407" lon="-8.9389355" version="1" timestamp="2019-03-29T11:45:20Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="6370070600" lat="42.9759256" lon="-8.9332737" version="1" timestamp="2019-03-29T11:45:20Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="6370070615" lat="42.9757922" lon="-8.9330637" version="1" timestamp="2019-03-29T11:45:20Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="6370070669" lat="42.9766077" lon="-8.9340407" version="1" timestamp="2019-03-29T11:45:21Z" changeset="68662156" uid="1712325" user="mglbranco"/>
+  <node id="6370812194" lat="42.9753711" lon="-8.9521695" version="1" timestamp="2019-03-29T18:18:47Z" changeset="68674742" uid="1712325" user="mglbranco"/>
+  <way id="48306217" version="4" timestamp="2018-11-18T00:01:48Z" changeset="64609542" uid="1712325" user="mglbranco">
+    <nd ref="272456708"/>
+    <nd ref="272456711"/>
+    <tag k="alt_name" v="A Ponte Olveira"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="layer" v="1"/>
+    <tag k="name" v="Ponte da Ponte Olveira"/>
+    <tag k="ref" v="DP-3404"/>
+    <tag k="source" v="PNOA;datos oficiales"/>
+  </way>
+  <way id="171560714" version="2" timestamp="2015-11-10T15:46:59Z" changeset="35218728" uid="2706893" user="lermin">
+    <nd ref="1216906326"/>
+    <nd ref="272456572"/>
+    <nd ref="272456573"/>
+    <nd ref="272456570"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="AC-3404"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="DP-3404"/>
+    <tag k="source" v="PNOA; datos oficiales"/>
+  </way>
+  <way id="171560716" version="3" timestamp="2016-01-05T00:24:42Z" changeset="36371829" uid="32529" user="Rodrigo Rega">
+    <nd ref="3927947223"/>
+    <nd ref="3927947221"/>
+    <nd ref="1216906369"/>
+    <nd ref="1216906233"/>
+    <nd ref="1216906326"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="AC-3404"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="ref" v="DP-3404"/>
+    <tag k="source" v="PNOA; datos oficiales"/>
+  </way>
+  <way id="232891626" version="2" timestamp="2019-03-25T22:36:56Z" changeset="68525847" uid="1712325" user="mglbranco">
+    <nd ref="1018813694"/>
+    <nd ref="1018813722"/>
+    <nd ref="1018813704"/>
+    <nd ref="1018813734"/>
+    <nd ref="1018813675"/>
+    <nd ref="1018813666"/>
+    <nd ref="1018813660"/>
+    <nd ref="1018813687"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Rúa Dolores González Jurjo"/>
+    <tag k="source" v="Idea"/>
+  </way>
+  <way id="679340922" version="1" timestamp="2019-03-25T22:36:53Z" changeset="68525847" uid="1712325" user="mglbranco">
+    <nd ref="1018813715"/>
+    <nd ref="272456668"/>
+    <nd ref="272456670"/>
+    <nd ref="6361360653"/>
+    <nd ref="3839175568"/>
+    <nd ref="1018813667"/>
+    <nd ref="1018813687"/>
+    <nd ref="1018813648"/>
+    <nd ref="1018813739"/>
+    <nd ref="1018813706"/>
+    <nd ref="1018813724"/>
+    <nd ref="3839175554"/>
+    <nd ref="272456672"/>
+    <nd ref="3839175567"/>
+    <nd ref="3839175566"/>
+    <nd ref="3839175564"/>
+    <nd ref="1018813713"/>
+    <nd ref="1018813698"/>
+    <nd ref="2132908730"/>
+    <nd ref="1018804414"/>
+    <nd ref="3839175563"/>
+    <nd ref="6361360044"/>
+    <nd ref="1018805474"/>
+    <nd ref="272456682"/>
+    <nd ref="272456683"/>
+    <nd ref="6361360615"/>
+    <tag k="highway" v="tertiary"/>
+    <tag k="name" v="Avenida 13 de Abril"/>
+    <tag k="ref" v="DP-3404"/>
+    <tag k="source" v="PNOA;datos oficiales"/>
+  </way>
+  <way id="761301153" version="1" timestamp="2020-01-06T18:15:11Z" changeset="79260034" uid="2365149" user="lucumon">
+    <nd ref="2320100574"/>
+    <nd ref="2320100576"/>
+    <nd ref="2320100577"/>
+    <nd ref="6370070345"/>
+    <nd ref="6370070346"/>
+    <nd ref="2320100578"/>
+    <nd ref="5554228425"/>
+    <nd ref="2320100579"/>
+    <nd ref="2320100580"/>
+    <nd ref="6370812194"/>
+    <nd ref="2320100581"/>
+    <nd ref="2320100582"/>
+    <nd ref="2320100583"/>
+    <nd ref="2320100584"/>
+    <nd ref="2320100585"/>
+    <nd ref="2320100586"/>
+    <nd ref="2320100587"/>
+    <nd ref="2320100588"/>
+    <nd ref="2320100589"/>
+    <nd ref="442144730"/>
+    <nd ref="442144728"/>
+    <nd ref="442144726"/>
+    <nd ref="6361222266"/>
+    <nd ref="6361222267"/>
+    <nd ref="2320100590"/>
+    <nd ref="2320100591"/>
+    <nd ref="442144724"/>
+    <nd ref="2320100592"/>
+    <nd ref="442144723"/>
+    <nd ref="2543604408"/>
+    <nd ref="1020193382"/>
+    <nd ref="1020193527"/>
+    <nd ref="6370070383"/>
+    <nd ref="6370070384"/>
+    <nd ref="442144721"/>
+    <nd ref="442144719"/>
+    <nd ref="6370070585"/>
+    <nd ref="442144716"/>
+    <nd ref="6370070589"/>
+    <nd ref="1020193324"/>
+    <nd ref="1020193518"/>
+    <nd ref="442144712"/>
+    <nd ref="442144709"/>
+    <nd ref="2543640045"/>
+    <nd ref="6370070669"/>
+    <nd ref="6370070600"/>
+    <nd ref="1020193285"/>
+    <nd ref="6370070615"/>
+    <nd ref="1020193314"/>
+    <nd ref="442144706"/>
+    <nd ref="442144705"/>
+    <nd ref="4431383281"/>
+    <nd ref="442144704"/>
+    <nd ref="1020265003"/>
+    <nd ref="442144703"/>
+    <nd ref="2543637434"/>
+    <nd ref="282489726"/>
+    <tag k="highway" v="unclassified"/>
+    <tag k="name" v="Estrada Alborés - Maroñas"/>
+    <tag k="source" v="Idea"/>
+  </way>
+  <area id="3600341951">
+    <tag k="admin_level" v="8"/>
+    <tag k="boundary" v="administrative"/>
+    <tag k="idee:name" v="Mazaricos"/>
+    <tag k="ine:municipio" v="15045"/>
+    <tag k="name" v="Mazaricos"/>
+    <tag k="place" v="municipality"/>
+    <tag k="population" v="4854"/>
+    <tag k="population:date" v="2009"/>
+    <tag k="source" v="BDLL25, EGRN, Instituto Geográfico Nacional"/>
+    <tag k="type" v="boundary"/>
+    <tag k="wikidata" v="Q1442814"/>
+    <tag k="wikipedia" v="gl:Mazaricos"/>
+  </area>
+
+</osm>

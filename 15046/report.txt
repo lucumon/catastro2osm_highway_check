@@ -1,0 +1,38 @@
+Municipality: Mazaricos
+Cadastre name: MAZARICOS
+Code: 15046
+Date: 09/05/20
+Options: 15046
+Area: 186.2 km²
+Population: 4854 hab. (2009)
+Wikipedia: https://www.wikipedia.org/wiki/gl:Mazaricos
+Wikidata: https://www.wikidata.org/wiki/Q1442814
+
+=System info=
+Application version: CatAtom2Osm 1.2.2
+Platform: Linux 5.4.0-7642-generic #46~1597422484~20.04~e78f762-Ubuntu SMP Wed Aug 19 14:35:06 UTC  x86_64 x86_64
+QGIS version: 3.10.4-A Coruña
+GDAL version: 3.0.4
+CPU count: 2
+CPU frequency: 1800.0 Mhz
+Execution time: 45.7 seconds
+Total memory: 3235.91 MB
+Physical memory usage: 220.08 MB
+Virtual memory usage: 1132.96 MB
+
+=Addresses=
+
+==Input data==
+Source date: 2020-04-17
+Feature count: 3627
+  Type entrance: 17
+  Type parcel: 3610
+Postal codes: 5
+Street names: 125
+
+==Output data==
+Addresses: 3627
+  In entrance nodes: 17
+  In buildings: 3610
+  Type addr:street: 602
+  Type addr:place: 3025
