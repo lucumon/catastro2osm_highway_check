@@ -1,0 +1,38 @@
+Municipality: Negreira
+Cadastre name: NEGREIRA
+Code: 15057
+Date: 09/05/20
+Options: 15057
+Area: 115.5 km²
+Population: 7029 hab. (2009)
+Wikipedia: https://www.wikipedia.org/wiki/gl:Negreira
+Wikidata: https://www.wikidata.org/wiki/Q840787
+
+=System info=
+Application version: CatAtom2Osm 1.2.2
+Platform: Linux 5.4.0-7642-generic #46~1597422484~20.04~e78f762-Ubuntu SMP Wed Aug 19 14:35:06 UTC  x86_64 x86_64
+QGIS version: 3.10.4-A Coruña
+GDAL version: 3.0.4
+CPU count: 2
+CPU frequency: 1800.0 Mhz
+Execution time: 47.6 seconds
+Total memory: 3235.91 MB
+Physical memory usage: 229.30 MB
+Virtual memory usage: 1140.65 MB
+
+=Addresses=
+
+==Input data==
+Source date: 2020-04-17
+Feature count: 6152
+  Type entrance: 1538
+  Type parcel: 4614
+Postal codes: 5
+Street names: 134
+
+==Output data==
+Addresses: 6152
+  In entrance nodes: 1538
+  In buildings: 4614
+  Type addr:street: 1048
+  Type addr:place: 5104

@@ -1,0 +1,14 @@
+2020-09-05 19:28:33,948 - INFO - Start processing '15057'
+2020-09-05 19:28:34,669 - INFO - Downloading '15057/A.ES.SDGC.CP.15057.zip'
+2020-09-05 19:28:43,096 - INFO - Read 1039 features in '15057/A.ES.SDGC.CP.15057.cadastralzoning.gml'
+2020-09-05 19:28:49,283 - INFO - Municipality: 'Negreira'
+2020-09-05 19:28:50,609 - INFO - Downloading '15057/A.ES.SDGC.AD.15057.zip'
+2020-09-05 19:28:52,071 - INFO - Read 6152 features in '15057/A.ES.SDGC.AD.15057.gml'
+2020-09-05 19:28:52,081 - INFO - Read 5 features in '15057/A.ES.SDGC.AD.15057.gml'
+2020-09-05 19:28:52,091 - INFO - Read 134 features in '15057/A.ES.SDGC.AD.15057.gml'
+2020-09-05 19:29:07,072 - INFO - Generated 'address.geojson'
+2020-09-05 19:29:07,086 - INFO - Downloading 'current_highway.osm'
+2020-09-05 19:29:08,829 - INFO - Read 'current_highway.osm': 949 nodes, 139 ways, 2 relations
+2020-09-05 19:29:16,109 - INFO - Generated 'address.osm': 6140 nodes, 0 ways, 0 relations
+2020-09-05 19:29:16,227 - INFO - The translation file 'highway_names.csv' have been writen in '15057'
+2020-09-05 19:29:16,227 - INFO - Please, check it and run again
