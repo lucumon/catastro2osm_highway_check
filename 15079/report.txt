@@ -1,38 +1,38 @@
-Municipality: Santiago de Compostela
-Cadastre name: SANTIAGO DE COMPOSTELA
-Code: 15079
-Date: 09/04/20
-Options: 15079
-Area: 220.5 km²
-Population: 94824 hab. (2009)
+Municipio: Santiago de Compostela
+Nombre en Catastro: SANTIAGO DE COMPOSTELA
+Código: 15079
+Fecha: 10/02/20
+Opciones: 15079
+Superficie: 220,5 km²
+Población: 94824 hab. (2009)
 Wikipedia: https://www.wikipedia.org/wiki/gl:Santiago de Compostela
 Wikidata: https://www.wikidata.org/wiki/Q14314
 
-=System info=
-Application version: CatAtom2Osm 1.2.2
-Platform: Linux 5.4.0-7642-generic #46~1597422484~20.04~e78f762-Ubuntu SMP Wed Aug 19 14:35:06 UTC  x86_64 x86_64
-QGIS version: 3.10.4-A Coruña
-GDAL version: 3.0.4
-CPU count: 2
-CPU frequency: 1800.0 Mhz
-Execution time: 317.6 seconds
-Total memory: 3235.91 MB
-Physical memory usage: 262.88 MB
-Virtual memory usage: 1215.96 MB
+=Información del sistema=
+Versión de la aplicación: CatAtom2Osm 1.2.2
+Plataforma: Linux 5.4.0-48-generic #52-Ubuntu SMP Thu Sep 10 10:58:49 UTC 2020 x86_64 x86_64
+Versión de QGIS: 2.18.17
+Versión de GDAL: 2.2.3
+Número de CPUs: 2
+Frecuencia de CPU: 1.900,0 Mhz
+Tiempo de ejecución: 161,2 segundos
+Memoria total: 3.850,96 MB
+Memoria física usada: 319,77 MB
+Memoria virtual usada: 1.150,00 MB
 
-=Addresses=
+=Direcciones=
 
-==Input data==
-Source date: 2020-04-17
-Feature count: 32286
-  Type entrance: 14377
-  Type parcel: 17909
-Postal codes: 21
-Street names: 1238
+==Datos de entrada==
+Fecha de origen: 2020-04-17
+Número de características: 32.286
+  Tipo entrada: 14.377
+  Tipo parcela: 17.909
+Códigos postales: 21
+Nombres de viales: 1.238
 
-==Output data==
-Addresses: 32286
-  In entrance nodes: 14377
-  In buildings: 17909
-  Type addr:street: 24179
-  Type addr:place: 8107
+==Datos de salida==
+Direcciones: 32.286
+  En nodos de entrada: 14.377
+  En edificios: 17.909
+  Tipo addr:street: 24.179
+  Tipo addr:place: 8.107

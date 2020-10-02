@@ -55,13 +55,13 @@ RU CALZADA SANTO ANTONIO	Calzada de Santo Antonio
 RU CALZADA SAR	Calzada de Sar
 RU CALZADA TORRENTE	Calzada de Torrente
 RU CALZADA COMBARRO	Calzada do Combarro
-CM SALES	Camino de Sales
 CM REAL ANGROIS	Camiño Real de Angrois
 CM REAL PIÑEIRO	Camiño Real de Piñeiro
 CM REAL VIDAN	Camiño Real de Vidán
 LG AMARELLE	Camiño a Amarelle
 CM AMEIXAGA	Camiño da Ameixaga
 CM LERMO	Camiño de Lermo
+CM SALES	Camiño de Sales
 CM CHAN CURROS	Camiño do Chan de Curros
 CM VILARES	Camiño dos Vilares
 RU VILARES	Camiño dos Vilares
@@ -69,8 +69,6 @@ RU CANTON SAN BIEITO	Cantón de San Bieito
 RU CANTON TOURAL	Cantón do Toural
 LG CARBALLAL	Carballal
 RU CARREIRO PICAÑOS	Carreiro de Picaños
-CR AUTOPISTA	Carretera/Carrera Autopista
-CR CORREDOIRA ESPIÑO	Carretera/Carrera Corredoira Espiño
 RU CORREDOIRA DA CASA VELLA	Corredoira da Casa Vella
 RU CATADOIRO	Corredoira do Catadoiro
 RU CORREDOIRA DOS MUIÑOS	Corredoira dos Muíños
@@ -85,7 +83,7 @@ CT SISTO	Costa do Sisto
 CT VEDOR	Costa do Vedor
 CT VIEIRO	Costa do Vieiro
 CT VISO	Costa do Viso
-CT RIO	Cuesta/Costanilla Rio
+CT RIO	Costa/Pendente Rio
 LG CURUXEIRA	Curuxeira
 RU ENTREMURALLAS	Entremurallas
 RU ESCALINATA DO CEBREIRO	Escalinata do cebreiro
@@ -96,9 +94,9 @@ LG REBOREDO	Estrada a Reboredo
 LG BANDO ARRIBA	Estrada de Bando de Arriba
 CR SAN LOURENZO	Estrada de San Lourenzo
 MT PEDROSO	Estrada do Pedroso
+CR AUTOPISTA	Estrada/Carreiro Autopista
+CR CORREDOIRA ESPIÑO	Estrada/Carreiro Corredoira Espiño
 LG GARABAL	Garabal
-JR MANUEL FEIXOO (DE)	Jardines Manuel Feixoo (de)
-JR XOSE MOSQUERA PEREZ	Jardines Xose Mosquera Perez
 LG ROCHA NOVA	Lugar A Rocha Nova
 LG ABETOS	Lugar Abetos
 LG AGRA CAMPOS	Lugar Agra Campos
@@ -297,8 +295,8 @@ LG FONTECOBA	Lugar da Fontecova
 LG COREXO	Lugar de Corexo
 LG CASAL LARAÑO	Lugar do Casal
 LG COIRA	Lugar do Casal
-LG SISTO (O)	Lugar do Sisto
 LG VIXOI	Lugar do Sisto
+LG SISTO (O)	Lugar do Sisto
 RU CHOUCIÑOS (DOS)	Lugar dos Chouchiños
 LG IGREXARIO ARINS	Lugar o Igrexario de Aríns
 MT SANTASMARIÑAS	Monte Santasmariñas
@@ -319,7 +317,7 @@ PQ PONTE MANTIBLE	Parroquia/Parque Ponte Mantible
 PQ SAN DOMINGOS DE BONAVAL	Parroquia/Parque San Domingos de Bonaval
 PQ DE CARLOMAGNO	Parroquia/Parque de Carlomagno
 PQ DE XIXON	Parroquia/Parque de Xixon
-PJ TRANSITO MERCED	Pasaje/Pasadizo Transito Merced
+PJ TRANSITO MERCED	Pasaxe/Pasadizo Transito Merced
 PS AMAIA	Paseo da Amaía
 PS QUINTA	Paseo da Quinta
 PS BRANDIA	Paseo de Brandía
@@ -331,22 +329,21 @@ LG PARADELAS ARRIBA	Pista a Paradelas de Arriba
 LG SAN PAIO	Pista a San Paio
 LG VILASUSO	Pista a Vilasuso
 LG IGREXA CESAR	Pista da Igrexa
-PC PENAS (DAS)	Placeta/Plaça Penas (Das)
-PC COMBARRO (DO)	Placiñas do Combarro
 PZ CAMILO DIAZ BALIÑO	Plaza Camilo Diaz Baliño
-PZ CONSTITUCION	Plaza Constitucion
-PZ EUROPA	Plaza Europa
-PZ FUENTERRABIA	Plaza Fuenterrabia
-PZ MARTIN HERRERA	Plaza Martin Herrera
-PZ MUSICA COMPOSTELANA	Plaza Musica Compostelana
-PZ OLIMPIO PEREZ RODRIGUEZ	Plaza Olimpio Perez Rodriguez
-PZ RAMON DOMINGUEZ	Plaza Ramon Dominguez
-PZ REP. ORIENTAL DO URUGUAY	Plaza Rep. Oriental Do Uruguay
-PZ SAN XOAN BAUTISTA SALLE	Plaza San Xoan Bautista Salle
-PZ SUNP-20 AMAÑECIDA RUA A	Plaza Sunp-20 Amañecida Rua A
 PC ALGALIA DE ARRIBA (DA)	Praciña da Algalia de Arriba
+PC PENAS (DAS)	Praciña das Penas
 PZ SAN PEDRO	Praciña de San Pedro
+PZ CONSTITUCION	Praza Constitucion
+PZ EUROPA	Praza Europa
+PZ FUENTERRABIA	Praza Fuenterrabia
+PZ MARTIN HERRERA	Praza Martin Herrera
+PZ MUSICA COMPOSTELANA	Praza Musica Compostelana
+PZ OLIMPIO PEREZ RODRIGUEZ	Praza Olimpio Perez Rodriguez
+PZ RAMON DOMINGUEZ	Praza Ramon Dominguez
+PZ REP. ORIENTAL DO URUGUAY	Praza Rep. Oriental Do Uruguay
 PZ ROXA	Praza Roxa
+PZ SAN XOAN BAUTISTA SALLE	Praza San Xoan Bautista Salle
+PZ SUNP-20 AMAÑECIDA RUA A	Praza Sunp-20 Amañecida Rua A
 PZ ALGALIA ABAIXO	Praza da Algalia de Abaixo
 PZ ATALAIA	Praza da Atalaia
 PZ INMACULADA	Praza da Inmaculada
@@ -372,8 +369,8 @@ PZ PASCUAL VEIGA	Praza de Pascual Veiga
 PZ RODRIGUEZ CADARSO	Praza de Rodríguez Cadarso
 PZ SALVADOR GARCIA BODAÑO	Praza de Salvador García Bodaño
 PZ SALVADOR PARGA	Praza de Salvador Parga
-PZ SAN FIZ SALOVIO	Praza de San Fiz de Solovio
 RU TRAS SAN FIZ SOLOVIO	Praza de San Fiz de Solovio
+PZ SAN FIZ SALOVIO	Praza de San Fiz de Solovio
 PZ SAN MARTIÑO	Praza de San Martiño Pinario
 PZ SAN MIGUEL AGROS	Praza de San Miguel dos Agros
 PZ SAN ROQUE	Praza de San Roque
@@ -413,13 +410,14 @@ RU RUELA SAN CLEMENTE	Ruela de San Clemente
 RU RUELA TORRENTE	Ruela de Torrente
 RU RUELA XERUSALEN	Ruela de Xerusalén
 RU RUELA COMBARRO	Ruela do Combarro
+PC COMBARRO (DO)	Ruela do Combarro
 RU RUELA DO GATO	Ruela do Gato
 RU RUELA PESO	Ruela do Peso
 RU RUELA POZO	Ruela do Pozo
 RU CIDADE TRANSPORTE A	Rúa "A" da Cidade do Transporte
 RU CIDADE TRANSPORTE B	Rúa "B" da Cidade do Transporte
 RU CIDADE TRANSPORTE C	Rúa "C" da Cidade do Transporte
-RU CIDADE TRANSPORTE D	Rúa "C" da Cidade do Transporte
+RU CIDADE TRANSPORTE D	Rúa "D" da Cidade do Transporte
 RU CIDADE TRANSPORTE F	Rúa "F" da Cidade do Transporte
 RU CIDADE TRANSPORTE G	Rúa "G" da Cidade do Transporte
 RU CIDADE TRANSPORTE (H)	Rúa "H" da Cidade do Transporte
@@ -439,8 +437,8 @@ RU ASUBIO	Rúa Asubio
 RU AUTOS LOBELLE SANTIAGO	Rúa Autos Lobelle Santiago
 RU BARROSA	Rúa Barrosa
 RU BATALLA CLAVIJO	Rúa Batalla de Clavixo
-RU BELVIS	Rúa Belvís
 PZ BELVIS	Rúa Belvís
+RU BELVIS	Rúa Belvís
 RU BENITO REGUEIRO VARELA	Rúa Benito Regueiro Varela
 RU CAMIÑOS DA VIDA	Rúa Camiños da Vida
 RU CAMPO HORTAS	Rúa Campo das Hortas
@@ -652,8 +650,8 @@ RU FERVENZA	Rúa da Fervenza
 RU FONTE MIRON	Rúa da Fonte Mirón
 RU FONTE LERMO	Rúa da Fonte de Lermo
 RU FONTE MALLOU	Rúa da Fonte de Mallou
-RU FONTE SAN MIGUEL	Rúa da Fonte de San Miguel
 RU FTE SAN MIGUEL	Rúa da Fonte de San Miguel
+RU FONTE SAN MIGUEL	Rúa da Fonte de San Miguel
 RU FONTE SANTO ANTONIO	Rúa da Fonte de Santo Antonio
 RU FONTE OURO	Rúa da Fonte do Ouro
 RU FONTE CONCHEIROS	Rúa da Fonte dos Concheiros
@@ -778,8 +776,8 @@ RU ALFREDO BRAÑAS	Rúa de Alfredo Brañas
 RU ALFREDO VICENTI	Rúa de Alfredo Vicenti
 RU ALLER ULLOA	Rúa de Aller Ulloa
 RU ALTAMIRA	Rúa de Altamira
-RU PORTO AMIO	Rúa de Amio
 RU AMIO	Rúa de Amio
+RU PORTO AMIO	Rúa de Amio
 RU AMOR RUIBAL	Rúa de Amor Ruibal
 RU DE ANDALUCIA	Rúa de Andalucia
 RU ANNE FRANK	Rúa de Anne Frank
@@ -1114,8 +1112,8 @@ RU PORTO MEDIO	Rúa do Porto do Medio
 RU PREGUNTOIRO	Rúa do Preguntoiro
 RU RUELA QUINTEIRO	Rúa do Quinteiro
 RU REFIXON	Rúa do Refixón
-RU RESTOLLAL	Rúa do Restollal
 RU ROSA PARDO	Rúa do Restollal
+RU RESTOLLAL	Rúa do Restollal
 RU RIAL CONXO	Rúa do Rial de Conxo
 RU ROSARIO	Rúa do Rosario
 RU RIO	Rúa do Río
@@ -1180,8 +1178,8 @@ TR POZA	Travesa da Poza
 TR SUSANA	Travesa da Susana
 TR CASAS HEDRA	Travesa das Casas da Hedra
 TR PENAS DE ARINS (DAS)	Travesa das Penas
-RU ANGROIS	Travesa de Angrois
 TR ANGROIS	Travesa de Angrois
+RU ANGROIS	Travesa de Angrois
 TR CONXO ABAIXO	Travesa de Conxo de Abaixo
 TR CONXO ARRIBA	Travesa de Conxo de Arriba
 TR LAMAS ABADE	Travesa de Lamas de Abade
@@ -1232,3 +1230,5 @@ VI CIERVA (LA)	Vía de La Cierva
 VI MARCONI (DE)	Vía de Marconi
 VI PASTEUR (DE)	Vía de Pasteur
 VI PTOLOMEO (DE)	Vía de Ptolomeo
+JR MANUEL FEIXOO (DE)	Xardíns Manuel Feixoo (de)
+JR XOSE MOSQUERA PEREZ	Xardíns Xose Mosquera Perez
